@@ -1,6 +1,6 @@
 # 🚀 ProjectDump GUI
 
-ProjectDump là công cụ gom mã nguồn của một project thành một file duy nhất (`source_dump.txt`).  
+ProjectDump là công cụ gom mã nguồn của một project thành một file duy nhất (`source_dump.txt`).
 Phiên bản này đã được bổ sung **giao diện người dùng bằng Tkinter** để dễ thao tác hơn.
 
 ---
@@ -17,7 +17,7 @@ Phiên bản này đã được bổ sung **giao diện người dùng bằng Tk
   - Nút mở nhanh thư mục chứa file output
 
 ---
-
+#...
 ## 🖥️ Cách chạy (Python)
 
 ### Yêu cầu
