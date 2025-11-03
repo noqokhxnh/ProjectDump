@@ -17,7 +17,7 @@ Phiên bản này đã được bổ sung **giao diện người dùng bằng Tk
   - Nút mở nhanh thư mục chứa file output
 
 ---
-#...
+#...1
 ## 🖥️ Cách chạy (Python)
 
 ### Yêu cầu
